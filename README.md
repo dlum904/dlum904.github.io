@@ -1,2 +1,3 @@
 # dlum904.github.io
-Portfolio
+Portfolio site made using a Bootstrap template.
+Original template: https://startbootstrap.com/theme/freelancer
