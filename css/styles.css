@@ -10036,6 +10036,16 @@ h3 {
   justify-content: center;
   align-items: center;
 }
+/* added to make give make top dividers easier to see on background */
+#top-divider {
+  border: .12rem solid black;
+  height: .4rem
+}
+/* added to make the icon easier to see on background */
+#first-star{
+  stroke: black;
+  stroke-width: 20;
+}
 .divider-custom .divider-custom-line {
   width: 100%;
   max-width: 7rem;
@@ -10059,15 +10069,6 @@ h3 {
 }
 .divider-custom.divider-light .divider-custom-icon {
   color: #fff !important;
-}
-/* added to make give make top dividers easier to see on background */
-.top-divider {
-  border: .11rem solid black
-}
-/* added to make the icon easier to see on background */
-#first-star{
-  stroke: black;
-  stroke-width: 20;
 }
 .btn-xl {
   padding: 1rem 1.75rem;
