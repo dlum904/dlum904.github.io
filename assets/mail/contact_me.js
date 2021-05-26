@@ -57,7 +57,7 @@ $(function () {
                         $("<strong>").text(
                             "Sorry " +
                                 firstName +
-                                ", it seems that my mail server is not responding. Please try again later!"
+                                ", it seems that my mail server is not responding. Please try again later or send me an email at dlum904@gmail.com"
                         )
                     );
                     $("#success > .alert-danger").append("</div>");
